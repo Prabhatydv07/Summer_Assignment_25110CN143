@@ -1,0 +1,4 @@
+ID,Name,Category,Quantity,Price,CostPrice
+1000,Shirt,Polo,7,799.00,399.00
+1001,Pants,Baggy Jeans,35,899.00,499.00
+#NEXTID,1002
